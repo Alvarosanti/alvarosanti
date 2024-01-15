@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Alvaro Santisteban
-### Engineering Student
+### Software Engineer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Alvaro00110001?style=social)](https://twitter.com/Alvaro00110001)
 
